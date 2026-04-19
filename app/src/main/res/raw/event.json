@@ -1,0 +1,53 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Tech Conference 2026",
+      "latitude": 20.9078,
+      "longitude": 22.8189,
+      "time": "2026-01-16T09:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80"
+    },
+    {
+      "id": "2",
+      "title": "Onboarding Kickoff Meeting",
+      "latitude": 34.6399,
+      "longitude": 89.2333,
+      "time": "2025-10-06T10:00:00Z",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1723773663167-13164c75ebff?q=80"
+    },
+    {
+      "id": "3",
+      "title": "Tech Startup Meetup",
+      "latitude": 88.9890,
+      "longitude": 52.8896,
+      "time": "2025-02-24T16:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1622258415402-d6f597973b03?q=80"
+    },
+
+    {
+      "id": "4",
+      "title": "Developer Workshop",
+      "latitude": 22.9222,
+      "longitude": 27.5289,
+      "time": "2025-14-12T09:30:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80"
+    },
+    {
+      "id": "5",
+      "title": "AI Tools Training Workshop",
+      "latitude": 36.9333,
+      "longitude": 78.3333,
+      "time": "2025-01-04T08:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80"
+    },
+    {
+      "id": "6",
+      "title": "Compliance Training Mandatory",
+      "latitude": 53.0786,
+      "longitude": 70.8754,
+      "time": "2025-03-12T11:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+    }
+  ]
+}

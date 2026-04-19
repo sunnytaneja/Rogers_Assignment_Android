@@ -1,3 +1,107 @@
 <resources>
-    <string name="app_name">EventApp</string>
+    <string name="app_name">EventsApp</string>
+    <string name="events_tab">Events</string>
+    <string name="bookmarks_tab">Bookmarks</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="search_placeholder">Search events, places, tags…</string>
+    <string name="loading_events">Loading events…</string>
+    <string name="no_events">No events available</string>
+    <string name="no_bookmarks">No bookmarks yet</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="added_to_bookmarks">Added to bookmarks</string>
+    <string name="removed_from_bookmarks">Removed from bookmarks</string>
+    <string name="retry">Retry</string>
+    <string name="share">Share</string>
+    <string name="location_permission_rationale">EventsApp needs location access to show distances to events.</string>
+
+    <string name="tab_events">Events</string>
+    <string name="tab_bookmarks">Bookmarks</string>
+
+    <string name="screen_title_discover">Discover Events</string>
+    <string name="cd_force_refresh_on">Force refresh (API)</string>
+    <string name="cd_force_refresh_off">Cached data</string>
+    <string name="cd_location_active">Location active</string>
+
+    <string name="cd_search">Search</string>
+    <string name="cd_clear_search">Clear search</string>
+
+    <string name="error_title_load_events">Couldn\'t load events</string>
+    <string name="btn_retry">Retry</string>
+
+    <string name="empty_no_events">No events available</string>
+    <string name="empty_no_results">No events match your search</string>
+    <string name="empty_search_hint">Try a different search</string>
+
+    <string name="filter_all">All</string>
+
+    <string name="snack_bookmark_added">Added to bookmarks</string>
+    <string name="snack_bookmark_removed">Removed from bookmarks</string>
+    <string name="snack_bookmark_failed">Failed to update bookmark</string>
+
+    <string name="dialog_location_title">Location Required</string>
+    <string name="dialog_location_dismiss">Dismiss</string>
+    <string name="error_location_off">Location is off</string>
+    <string name="error_location_unavailable">Unable to get location</string>
+
+    <string name="screen_title_bookmarks">Bookmarks</string>
+    <string name="bookmarks_count_single">%d saved event</string>
+    <string name="bookmarks_count_plural">%d saved events</string>
+    <plurals name="bookmarks_count">
+        <item quantity="one">%d saved event</item>
+        <item quantity="other">%d saved events</item>
+    </plurals>
+    <string name="empty_bookmarks_title">No bookmarks yet</string>
+    <string name="empty_bookmarks_hint">Save events you\'re interested in and they\'ll appear here</string>
+    <string name="snack_bookmark_load_failed">Failed to load bookmarks</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_share">Share</string>
+    <string name="cd_bookmark_add">Add bookmark</string>
+    <string name="cd_bookmark_remove">Remove bookmark</string>
+    <string name="btn_get_directions">Get Directions</string>
+    <string name="btn_retry_detail">Retry</string>
+
+    <string name="label_date">Date</string>
+    <string name="label_time">Time</string>
+    <string name="label_location">Location</string>
+    <string name="label_organizer">Organizer</string>
+    <string name="label_about">About this event</string>
+    <string name="label_tags">Tags</string>
+    <string name="label_price">Price</string>
+    <string name="label_free">Free</string>
+
+    <!-- Format strings — use with stringResource(R.string.format_xyz, arg) -->
+    <string name="format_distance_away">📍 %s away</string>
+    <string name="format_price">&#8377;%s</string>
+    <string name="format_attendees">%s attending</string>
+    <string name="format_tag">#%s</string>
+
+    <string name="snack_detail_bookmark_added">Added to bookmarks</string>
+    <string name="snack_detail_bookmark_removed">Removed from bookmarks</string>
+    <string name="snack_detail_bookmark_failed">Failed to update bookmark</string>
+    <string name="error_event_not_found">Event not found</string>
+    <string name="error_event_load_failed">Failed to load event</string>
+
+    <string name="distance_nearby">Nearby</string>
+    <string name="distance_format_m">%d m</string>
+    <string name="distance_format_km_decimal">%.1f km</string>
+    <string name="distance_format_km_int">%d km</string>
+
+    <string name="share_chooser_title">Share Event</string>
+    <!-- Do not translate the deep link scheme -->
+    <string name="share_event_body" translatable="false">Check out this event: %1$s\neventsapp://event/%2$s</string>
+
+    <string name="worker_refresh_success">Events refreshed successfully</string>
+    <string name="worker_refresh_failed">Background refresh failed</string>
+
+    <string name="cd_event_image">Event image for %s</string>
+    <string name="cd_location_icon">Location</string>
+    <string name="cd_calendar_icon">Calendar</string>
+    <string name="cd_wifi_off">No internet connection</string>
+    <string name="cd_error_icon">Error</string>
+    <string name="cd_navigation_icon">Get directions</string>
+
+    <string name="today">today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="something_went_wrong">Something went wrong</string>
 </resources>
